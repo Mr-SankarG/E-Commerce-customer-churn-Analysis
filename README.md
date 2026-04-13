@@ -108,8 +108,8 @@ It helps identify patterns behind customer attrition, enabling strategies to imp
 ---
 
 ## 👨‍💻 Author
-**Naveen M**  
+**SANKAR G**  
 _Data Analytics & Machine Learning Enthusiast_  
 
-📧 **Email:** iamnaveen1401@gmail.com  
-🌐 **GitHub:** [https://github.com/iamnaveen1401]
+📧 **Email:** sankargss1999@gmail.com 
+🌐 **GitHub:** https://github.com/Mr-SankarG
